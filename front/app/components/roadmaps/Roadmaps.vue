@@ -12,19 +12,19 @@ const props = defineProps<Props>();
 
 // داده‌ها
 const skills: Item[] = [
-    { name: 'React', link: '#React' },
-    { name: 'Vue', link: '#Vue' },
-    { name: 'Laravel', link: '#Laravel' },
-    { name: 'SQL', link: '#SQL' },
-    { name: 'Node.js', link: '#NodeJs' }
+    { name: 'React', link: 'react' },
+    { name: 'Vue', link: 'vue' },
+    { name: 'Laravel', link: 'laravel' },
+    { name: 'SQL', link: 'sql' },
+    { name: 'Node.js', link: 'nodejs' }
 ];
 
 const domains: Item[] = [
-    { name: 'Frontend', link: '#Frontend' },
-    { name: 'Backend', link: '#Backend' },
-    { name: 'AI', link: '#AI' },
-    { name: 'Mobile', link: '#Mobile' },
-    { name: 'DevOps', link: '#DevOps' }
+    { name: 'Frontend', link: 'frontend' },
+    { name: 'Backend', link: 'backend' },
+    { name: 'AI', link: 'ai' },
+    { name: 'Mobile', link: 'mobile' },
+    { name: 'DevOps', link: 'devops' }
 ];
 
 const items = computed(() => props.type === 2 ? skills : domains);
@@ -35,7 +35,7 @@ const items = computed(() => props.type === 2 ? skills : domains);
         <NuxtLink
             v-for="item in items"
             :key="item.name"
-            :to="item.link"
+            :to="'/roadmap/' + item.link"
             class="w-full py-3 bg-gray-800/30 border border-gray-700 text-white rounded-lg hover:border-gray-500 transform transition">
             {{ item.name }}
         </NuxtLink>
