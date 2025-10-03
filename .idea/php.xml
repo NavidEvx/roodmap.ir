@@ -132,6 +132,39 @@
       <path value="$PROJECT_DIR$/back/vendor/guzzlehttp/uri-template" />
       <path value="$PROJECT_DIR$/back/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/back/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/actions" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/support" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/notifications" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/widgets" />
+      <path value="$PROJECT_DIR$/back/vendor/blade-ui-kit/blade-heroicons" />
+      <path value="$PROJECT_DIR$/back/vendor/blade-ui-kit/blade-icons" />
+      <path value="$PROJECT_DIR$/back/vendor/anourvalar/eloquent-serialize" />
+      <path value="$PROJECT_DIR$/back/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/back/vendor/ueberdosis/tiptap-php" />
+      <path value="$PROJECT_DIR$/back/vendor/openspout/openspout" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/filament" />
+      <path value="$PROJECT_DIR$/back/vendor/ryangjchandler/blade-capture-directive" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/infolists" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/tables" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/forms" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/schemas" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/html-sanitizer" />
+      <path value="$PROJECT_DIR$/back/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/back/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/back/vendor/spatie/shiki-php" />
+      <path value="$PROJECT_DIR$/back/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/back/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/back/vendor/spatie/invade" />
+      <path value="$PROJECT_DIR$/back/vendor/league/uri-components" />
+      <path value="$PROJECT_DIR$/back/vendor/league/csv" />
+      <path value="$PROJECT_DIR$/back/vendor/danharrin/date-format-converter" />
+      <path value="$PROJECT_DIR$/back/vendor/danharrin/livewire-rate-limiting" />
+      <path value="$PROJECT_DIR$/back/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/back/vendor/kirschbaum-development/eloquent-power-joins" />
+      <path value="$PROJECT_DIR$/back/vendor/chillerlan/php-settings-container" />
+      <path value="$PROJECT_DIR$/back/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/back/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/back/vendor/chillerlan/php-qrcode" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />

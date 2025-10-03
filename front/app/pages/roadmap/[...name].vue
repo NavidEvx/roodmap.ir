@@ -71,9 +71,10 @@ const domain = computed(() => {
                         <h1>قدم صفر - یادگیری مقدمات</h1>
                     </div>
                 </div>
-                <div class="w-full grid grid-cols-3 gap-3">
-                    <div v-for="i in 3" :key="i" class="flex items-center justify-center p-4 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-lg shadow hover:scale-105 transition-transform">
-                        Go
+                <div class="w-full flex flex-auto gap-3">
+                    <div v-for="i in 3" :key="i" class="flex items-center justify-center gap-x-3 p-2 text-blue-800 dark:text-blue-200 rounded-lg border-2 border-gray-500 hover:scale-105 transition-transform">
+                        <img src="/images/languages/golang.png" width="32" alt=""/>
+                        <span>Golang</span>
                     </div>
                 </div>
             </div>

@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c68069-7540-4a3d-93bb-963b8e5cd163" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/images/languages/golang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/components/roadmaps/Roadmaps.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/components/roadmaps/Roadmaps.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/bootstrap/providers.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/bootstrap/providers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/back/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/back/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/back/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/app/pages/roadmap/[...name].vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/pages/roadmap/[...name].vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/nuxt.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
     </list>
@@ -149,6 +153,39 @@
       <path value="$PROJECT_DIR$/back/vendor/guzzlehttp/uri-template" />
       <path value="$PROJECT_DIR$/back/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/back/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/actions" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/support" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/notifications" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/widgets" />
+      <path value="$PROJECT_DIR$/back/vendor/blade-ui-kit/blade-heroicons" />
+      <path value="$PROJECT_DIR$/back/vendor/blade-ui-kit/blade-icons" />
+      <path value="$PROJECT_DIR$/back/vendor/anourvalar/eloquent-serialize" />
+      <path value="$PROJECT_DIR$/back/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/back/vendor/ueberdosis/tiptap-php" />
+      <path value="$PROJECT_DIR$/back/vendor/openspout/openspout" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/filament" />
+      <path value="$PROJECT_DIR$/back/vendor/ryangjchandler/blade-capture-directive" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/infolists" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/tables" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/forms" />
+      <path value="$PROJECT_DIR$/back/vendor/filament/schemas" />
+      <path value="$PROJECT_DIR$/back/vendor/symfony/html-sanitizer" />
+      <path value="$PROJECT_DIR$/back/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/back/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/back/vendor/spatie/shiki-php" />
+      <path value="$PROJECT_DIR$/back/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/back/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/back/vendor/spatie/invade" />
+      <path value="$PROJECT_DIR$/back/vendor/league/uri-components" />
+      <path value="$PROJECT_DIR$/back/vendor/league/csv" />
+      <path value="$PROJECT_DIR$/back/vendor/danharrin/date-format-converter" />
+      <path value="$PROJECT_DIR$/back/vendor/danharrin/livewire-rate-limiting" />
+      <path value="$PROJECT_DIR$/back/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/back/vendor/kirschbaum-development/eloquent-power-joins" />
+      <path value="$PROJECT_DIR$/back/vendor/chillerlan/php-settings-container" />
+      <path value="$PROJECT_DIR$/back/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/back/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/back/vendor/chillerlan/php-qrcode" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -186,6 +223,7 @@
       <recent name="$PROJECT_DIR$/front/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/public" />
       <recent name="$PROJECT_DIR$/front/app/components/roadmaps" />
       <recent name="$PROJECT_DIR$/front/app/components/layouts" />
     </key>
@@ -214,7 +252,8 @@
       <updated>1759175938442</updated>
       <workItem from="1759175939992" duration="16309000" />
       <workItem from="1759237367450" duration="5406000" />
-      <workItem from="1759351371281" duration="11685000" />
+      <workItem from="1759351371281" duration="12499000" />
+      <workItem from="1759428672645" duration="11251000" />
     </task>
     <servers />
   </component>
